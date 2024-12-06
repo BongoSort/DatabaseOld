@@ -1,5 +1,9 @@
 # Description
 
+From the course Database Systems
+
+Authored by Rune Schuster, except for the Data itself, listed under "-- Just filling in data --".
+
 This project creates a database schema called NGOs4 to manage data related to non-governmental organizations (NGOs), their supporters, and donations. It consists of four main tables:
 
 * NGO: Stores details about each NGO, including name, location, cause, director, contact information, and revenue.
